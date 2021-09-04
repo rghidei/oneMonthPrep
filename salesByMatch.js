@@ -60,9 +60,7 @@ console.log(match([10, 20, 20, 10, 10, 30, 50, 10, 20]))
 // The first line contains an integer , the number of socks represented in .
 // The second line contains  space-separated integers, , the colors of the socks in the pile.
 
-// Constraints
 
-//  where
 // Sample Input
 
 // STDIN                       Function
