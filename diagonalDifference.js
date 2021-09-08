@@ -47,7 +47,7 @@ function diagonal(arr){
 // -then i got the sums from arrays
 // -then i found the difference
 
-Question:
+// Question:
 // Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 //
 // For example, the square matrix  is shown below:
