@@ -36,13 +36,13 @@ function diagonal(arr){
 
 // console.log(diagonal([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]]))
 
-Summary:
--created two empty arrays
--created two var as starters for when we should add the elements to their spefic arrays
--created three loops bc the given input is 2d array
--main for of loop is to get to mini arrays
--first loop for the left side, add the right elemtns to the empty array
--added more to i
--added 1 to the left starter, took 1 from the right starter
--then i got the sums from arrays
--then i found the difference 
+// Summary:
+// -created two empty arrays
+// -created two var as starters for when we should add the elements to their spefic arrays
+// -created three loops bc the given input is 2d array
+// -main for of loop is to get to mini arrays
+// -first loop for the left side, add the right elemtns to the empty array
+// -added more to i
+// -added 1 to the left starter, took 1 from the right starter
+// -then i got the sums from arrays
+// -then i found the difference
