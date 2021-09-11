@@ -104,37 +104,6 @@ console.log(minSum([1, 2, 3, 4, 5]))
 // You solved this challenge. Would you like to challenge your friends?Share on FacebookShare on TwitterShare on LinkedIn
 // Next Challenge
 
-// Test case 0
-
-// Test case 1
-
-// Test case 2
-
-// Test case 3
-
-// Test case 4
-
-// Test case 5
-
-// Test case 6
-
-// Test case 7
-
-// Test case 8
-
-// Test case 9
-
-// Test case 10
-
-// Test case 11
-
-// Test case 12
-
-// Test case 13
-
-// Test case 14
-// Compiler Message
-// Success
 // Input (stdin)
 
 // Download
