@@ -132,14 +132,3 @@ console.log(sparse(['aba', 'baba', 'aba', 'xzxb'], ['aba', 'xzxb', 'ab']))
 // 4
 // 3
 // 2
-
-
-
-
-// function matchingStrings(strings, queries) {
-//     // Write your code here
-//  let countArr = []
-//  for(let elQ of queries){
-//     let counter = 0
-//     for(let elS of strings){
-//       if(elQ === elS){
