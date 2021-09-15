@@ -62,7 +62,6 @@ console.log(sparse(['aba', 'baba', 'aba', 'xzxb'], ['aba', 'xzxb', 'ab']))
 // The next line contains , the size of .
 // Each of the next  lines contains a string .
 
-// Constraints
 
 
 
