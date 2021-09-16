@@ -136,10 +136,6 @@ console.log(sparse(['aba', 'baba', 'aba', 'xzxb'], ['aba', 'xzxb', 'ab']))
 
 
 
-// More
-// 5455565758596061626364656667686970717273747576
-//  *  2. STRING_ARRAY queries
-//  */
 
 // function matchingStrings(strings, queries) {
 //     // Write your code here
