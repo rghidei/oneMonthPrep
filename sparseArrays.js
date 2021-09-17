@@ -134,8 +134,7 @@ console.log(sparse(['aba', 'baba', 'aba', 'xzxb'], ['aba', 'xzxb', 'ab']))
 // 3
 // 2
 
-// Language
-// JavaScript (Node.js)
+
 
 // More
 // 5455565758596061626364656667686970717273747576
