@@ -50,7 +50,7 @@ console.log(lonely([1, 2, 3, 4, 3, 2, 1] ))
 
 // Example
 
-// The unique element is .
+// The unique element is 4.
 
 // Function Description
 
