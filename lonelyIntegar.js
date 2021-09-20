@@ -66,8 +66,3 @@ console.log(lonely([1, 2, 3, 4, 3, 2, 1] ))
 
 // The first line contains a single integer, , the number of integers in the array.
 // The second line contains  space-separated integers that describe the values in .
-
-// Constraints
-
-// It is guaranteed that  is an odd number and that there is one unique element.
-// , where .
